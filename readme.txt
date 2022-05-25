@@ -1,1 +1,1 @@
-hello, word!
+This is LGC's first git readme!
